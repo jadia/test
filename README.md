@@ -1,2 +1,4 @@
-# test
-This a random test repository I use to experiment with Git
+# Test Repository
+
+This is a test repository which I'll be using to experiment on Git.
+
